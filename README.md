@@ -14,7 +14,7 @@ Starting from Arijit1080's open-source spider robot as a reference, we re-CADed 
 
 Fig. Hello from Spider-E
 
-<img width="302" height="1701" alt="IMG_306" src="https://github.com/user-attachments/assets/b8cf3d11-4b92-46ce-9546-732dbba47a7f" />
+<img width="3024" height="1701" alt="IMG_3066" src="https://github.com/user-attachments/assets/b8cf3d11-4b92-46ce-9546-732dbba47a7f" />
 
 Fig. Hello again
 
