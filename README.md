@@ -1,4 +1,4 @@
-# Quadraped-Bot
+# Spider-E
 
 Four-Legged "Pretty COOL" robot
 
