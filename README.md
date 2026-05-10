@@ -244,9 +244,11 @@ Fig. step_forward and step_backward() sequence
 ### Electronics:
 Wires - has maxmium numbers for current load (AWG) -- the lower the number, the more it can carry
 Battery - if the positive and negative node gets short circuit, it can heat up quick and catch fire!!!
-Connection test - each soldered parts and every connection needs to be tested with a multimeter throughout the project
+Connection test - each soldered parts and every connection needs to be tested with a multimeter throughout the project.
 Types of switches - On/Off 2 pin, On/On 3 pin
 
+### FlexiTimer
+FlexiTimer allows a function to interrupt the main loop at regular intervals. In our code, we use it to call the servo_service function every 20 milliseconds. The timer works by scaling CPU clock cycles to a range of 0-256. This program is compatible with different types of Arduino boards since the program selects the correct hardware configuration by using compile-time chip detection. 
 
 ## Meet Team Rice and Robots (R&R) 
 Independent student robotics team - De Anza College
