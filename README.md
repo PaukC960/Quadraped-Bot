@@ -90,6 +90,10 @@ Fig. Four sets of legs
 Connection is made with 18 AWG tinned copper wires. 
 Battery -> switch -> buck converter (calibration necessary) -> Arduino nano expansion board -> servo motors & bluetooth module
 
+<img width="1847" height="966" alt="Spider-E Schematics" src="https://github.com/user-attachments/assets/6fd0bccb-9cf5-4842-9052-83a68a4bb344" />
+
+Fig. Spider-E Schematics
+
 <img width="302.4" height="403.2" alt="IMG_3042" src="https://github.com/user-attachments/assets/71be8035-ee78-4fc1-b289-c53e35d08573" />
 
 Fig. Wire connection lay-out
